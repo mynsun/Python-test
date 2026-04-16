@@ -19,3 +19,8 @@ print(num)
 
 print('Hello' < 'World!')
 print('홍길동' != '허균')
+
+print(True and False)
+print(True or False)
+print(not False)
+print(5 < 6 and True)
